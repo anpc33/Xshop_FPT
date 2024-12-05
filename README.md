@@ -60,7 +60,7 @@ Steps:
 
 Clone the repository:
 
-git clone https://github.com/your-repo/web-shop.git
+git clone https://github.com/anpc33/Xshop_FPT.git
 
 Set up the database:
 
